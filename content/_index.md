@@ -1,8 +1,6 @@
 ---
-title: Welkom bij Studio Spoort!
-description: Een hobbyproject van Jappie051
-thumbnail:
-    url: /img/logo.png
-    author: StudioSpoort@Jappie051
-
+title: Studio Spoort 
+description: Welkom bij Studio Spoort, mijn blog over de OV-kaarten die ik maak. Misschien dat ik ooit andere dingen post, wie weet.
 ---
+
+Welkom bij Studio Spoort, mijn blog over de OV-kaarten die ik maak. Misschien dat ik ooit andere dingen post, wie weet.
