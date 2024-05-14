@@ -34,3 +34,6 @@ Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianr
       { platform = "email", identity = "jappie051@gmail.com", url_pattern = "mailto:%s" },
       { platform = "github", identity = "Jappie051", url_pattern = "https://github.com/%s" }
     ]
+
+[params.meta]
+  favicon = false
