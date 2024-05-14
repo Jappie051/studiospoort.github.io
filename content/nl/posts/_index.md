@@ -1,5 +1,5 @@
 ---
-title: posts (nl)
+title: posts 
 menu:
   main:
     weight: 1

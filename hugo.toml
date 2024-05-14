@@ -2,6 +2,17 @@ baseURL = 'https://www,studiospoort.nl'
 languageCode = 'nl-nl'
 title = 'Studio Spoort'
 theme = "plague"
+defaultContentLanguage = 'nl'
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 2
+  [languages.nl]
+    contentDir = 'content/nl'
+    languageName = 'Nederlands'
+    weight = 1
 
 [module]
   [[module.imports]]
