@@ -1,2 +1,4 @@
 github.com/brianreumere/plague v0.4.0 h1:PA6ZIrbsnx48UxO7O+A3Kchjow0V8Ezr04KDj5yF2Ek=
 github.com/brianreumere/plague v0.4.0/go.mod h1:FjXJXbBLMg28mwVEVwSF+bLtEPI8RzHb/DMZ5BCSUBc=
+github.com/gethugothemes/hugo-modules/images v0.0.0-20240504032439-79fc09d96848 h1:ERg7+O0skI+hgtKSoF6gkhTBbRpWbq1wdTvF7Awk6ag=
+github.com/gethugothemes/hugo-modules/images v0.0.0-20240504032439-79fc09d96848/go.mod h1:FKliP3qOW9diIcQeLtyZ0Hdhg3PL8bdAkC/6O+XtU90=

@@ -15,6 +15,13 @@
       <guid>http://localhost:1313/posts/eerste-post/</guid>
       <description>&lt;p&gt;Dit is een test, werkt dit?&lt;/p&gt;&#xA;</description>
     </item>
+    <item>
+      <title>Brabantrail</title>
+      <link>http://localhost:1313/posts/brabantrail/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/brabantrail/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This page is also available in &lt;a href=&#34;../../../en/posts/brabantrail/&#34;&gt;English&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Een fictieve netkaart voor een tramnetwerk in Noord-Brabant&#xA;BrabantRail is een project waar ik al een flinke tijd mee bezig ben, het is mijn eerste grote kaartproject.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/BrabantRail.pdf&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/Brabolandklein.png&#34; width=&#34;800px&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A full-scale pdf can be found &lt;a href=&#34;http://localhost:1313/BrabantRail.pdf&#34;&gt;here&lt;/a&gt; or by clicking on the image above.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;introductie&#34;&gt;Introductie&lt;/h1&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;WIP&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
   </channel>
 </rss>
 

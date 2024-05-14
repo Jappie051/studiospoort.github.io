@@ -1,4 +1,4 @@
-baseURL = 'https://www,studiospoort.nl'
+baseURL = 'https://www.studiospoort.nl'
 languageCode = 'nl-nl'
 title = 'Studio Spoort'
 theme = "plague"
@@ -20,6 +20,11 @@ defaultContentLanguage = 'nl'
     ignoreConfig = false
     ignoreImports = true
     path = "github.com/brianreumere/plague"  # Theme
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    ignoreImports = true
+    path = "github.com/gethugothemes/hugo-modules/images"
 
 [params]
   siteHeaderText = "Studio Spoort"
@@ -30,9 +35,10 @@ Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianr
 """
 
   colors = "default"
+  favicon = "images/icoon160pxs.png"
 
   [params.hcard]
-    avatar = "images/i.jpg"
+    avatar = "images/icoon160px.png"
     fullName = "Jappie051"
     pronouns = [ "hij", "hem" ]
     nickname = "Jappie"
@@ -46,5 +52,8 @@ Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianr
       { platform = "github", identity = "Jappie051", url_pattern = "https://github.com/%s" }
     ]
 
-[params.meta]
-  favicon = false
+[[params.plugins.js]]
+link = "plugins/lazy-loader.js"
+
+[markup.goldmark.renderer]
+unsafe = true
