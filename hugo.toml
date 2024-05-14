@@ -5,14 +5,14 @@ theme = "plague"
 defaultContentLanguage = 'nl'
 
 [languages]
-  [languages.en]
-    contentDir = 'content/en'
-    languageName = 'English'
-    weight = 2
-  [languages.nl]
-    contentDir = 'content/nl'
-    languageName = 'Nederlands'
-    weight = 1
+	[languages.nl]
+	  contentDir = 'content/nl'
+	  languageName = 'Nederlands'
+	  weight = 1
+	[languages.en]
+	  contentDir = 'content/en'
+	  languageName = 'English'
+	  weight = 2
 
 [module]
   [[module.imports]]
