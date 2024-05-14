@@ -1,0 +1,36 @@
+baseURL = 'https://www,studiospoort.nl'
+languageCode = 'nl-nl'
+title = 'Studio Spoort'
+theme = "plague"
+
+[module]
+  [[module.imports]]
+    disable = false
+    ignoreConfig = false
+    ignoreImports = true
+    path = "github.com/brianreumere/plague"  # Theme
+
+[params]
+  siteHeaderText = "Studio Spoort"
+  siteFooterText = """
+© Studio Spoort 
+
+Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme.
+"""
+
+  colors = "default"
+
+  [params.hcard]
+    avatar = "images/i.jpg"
+    fullName = "Jappie051"
+    pronouns = [ "hij", "hem" ]
+    nickname = "Jappie"
+    showLocation = true
+    city = "Eindhoven"
+    region = "Noord-Brabant"
+    country = "NL"
+
+    social = [
+      { platform = "email", identity = "jappie051@gmail.com", url_pattern = "mailto:%s" },
+      { platform = "github", identity = "Jappie051", url_pattern = "https://github.com/%s" }
+    ]
