@@ -6,7 +6,7 @@ date: '2024-05-10'
 > A fictional map for a potential lightrail network in Noord-Brabant
 Brabantrail is a project I've been working on for a hot while, it's my first major map project.
 
-{{< figure src="images/Brabolandklein.png" link="/BrabantRail.pdf" >}}
+{{< figure src="images/Brabolandklein.png" width="100%" link="/BrabantRail.pdf" >}}
 > A full-scale pdf can be found [here](/BrabantRail.pdf) or by clicking on the image above.
 
 # Introduction
