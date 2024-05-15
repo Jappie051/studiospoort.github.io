@@ -1,4 +1,4 @@
-baseURL = 'https://www.studiospoort.nl'
+baseURL = 'https://studiospoort.nl'
 languageCode = 'nl-nl'
 title = 'Studio Spoort'
 theme = "plague"
