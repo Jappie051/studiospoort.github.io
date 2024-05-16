@@ -1,6 +1,6 @@
 Welkom bij Studio Spoort
 
 <picture>
-  <source srcset="/assets/images/logo-white.svg" media="(prefers-color-scheme: dark)">
-  <img src="/assets/images/logo.svg">
+  <source srcset="/logo-white.svg" media="(prefers-color-scheme: dark)">
+  <img src="/logo.svg">
 </picture>
