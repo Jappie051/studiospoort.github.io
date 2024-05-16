@@ -1,6 +1,6 @@
 Welcome to Studio Spoort
 
-{{<figure
-    src="images/logo-white.svg" 
-    width="100%"
->}}
+<picture>
+  <source srcset="../images/logo-white.svg" media="(prefers-color-scheme: dark)">
+  <img src="../images/logo.svg">
+</picture>
