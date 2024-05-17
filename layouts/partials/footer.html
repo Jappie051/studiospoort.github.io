@@ -1,0 +1,15 @@
+<div class="footer-container">
+    <div class="h-card bio">
+        {{- partial "hcard.html" . -}}
+    </div>
+    <div class="footer-text footer-right">
+        <p>
+            © Studio Spoort 
+            <br>
+            {{ i18n "powered-by"}} <a href="https://gohugo.io/">Hugo</a> {{ i18n "andhet"}} <a href="https://github.com/brianreumere/plague">plague</a> {{ i18n "theme"}}.
+        </p>
+    </div>
+</div>
+<div class="h-card social">
+    {{ partial "social.html" . -}}
+</div>

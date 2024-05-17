@@ -31,7 +31,7 @@ defaultContentLanguage = 'nl'
   siteFooterText = """
 © Studio Spoort 
 
-Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme.
+{{ i18n "powered-by"}} [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme.
 """
 
   colors = "default"
