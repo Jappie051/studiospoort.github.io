@@ -1,6 +1,6 @@
 ---
 layout: standalone
-title: over
+title: Over
 menu:
   main:
     weight: 3

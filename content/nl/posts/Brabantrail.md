@@ -1,6 +1,9 @@
 ---
 title: Brabantrail 
 date: '2024-05-10'
+description: "Een fictieve netkaart voor een tramnetwerk in Noord-Brabant"
+image: 
+
 ---
 
 > Een fictieve netkaart voor een tramnetwerk in Noord-Brabant <br>
@@ -17,7 +20,7 @@ Hieronder vallen de tienminutentreinen vanaf Eindhoven naar Amsterdam en de IC D
 Ook heb je in het oosten enkele stations van de Maaslijn (Arriva).
 
 Vroeger waren er echter 4 extra spoorlijnen:
-- [Bels Lijntje](https://nl.wikipedia.org/w/index.php?title=Spoorlijn_29_Aarschot_-_Tilburg) - verbindde Turnhout (BE) en Tilburg
+- [Bels Lijntje](https://nl.wikipedia.org/wiki/Spoorlijn_29_Aarschot_-_Tilburg) - verbindde Turnhout (BE) en Tilburg
 - [Spoorlijn 18](https://nl.wikipedia.org/wiki/Spoorlijn_18_Winterslag_-_Eindhoven) - verbindde Eindhoven met Pelt (BE) en Hasselt (BE)
 - [Langstraatspoorlijn of Halvenzolenlijntje](https://nl.wikipedia.org/wiki/Spoorlijn_Lage_Zwaluwe_-_%27s-Hertogenbosch) - verbindde Lage Zwaluwe met 's-Hertogenbosch via Waalwijk
 - [Duits Lijntje](https://nl.wikipedia.org/wiki/Spoorlijn_Boxtel_-_Wesel) - verbindde Boxtel met Goch (DE) via Uden en Gennep

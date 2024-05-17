@@ -1,6 +1,7 @@
 ---
 title: Brabantrail 
 date: '2024-05-10'
+description: "A fictional map for a potential lightrail network in Noord-Brabant."
 ---
 > A fictional map for a potential lightrail network in Noord-Brabant. <br>
 > Brabantrail is a project I've been working on for a hot while, it's my first major map project.
@@ -20,7 +21,7 @@ Breda is branched of the HSL-Zuid, connecting it with high-speed rail to Rotterd
 Eindhoven and 's‑Hertogenbosch have high-frequency IC rail connecting to Utrecht and Amsterdam to the North, while branching off to various cities in Limburg to the South.
 
 Historically though, there 4 more mainline railways connecting the province. These incude:
-- [Bels Lijntje (Spoorlijn 29) [NL]](https://nl.wikipedia.org/w/index.php?title=Spoorlijn_29_Aarschot_-_Tilburg) - connecting Tilburg to Turnhout (BE)
+- [Bels Lijntje (Spoorlijn 29) [NL]](https://nl.wikipedia.org/wiki/Spoorlijn_29_Aarschot_-_Tilburg) - connecting Tilburg to Turnhout (BE)
 - [Spoorlijn 18 [NL]](https://nl.wikipedia.org/wiki/Spoorlijn_18_Winterslag_-_Eindhoven) - connecting Eindhoven to Pelt (BE) and Hasselt (BE)
 - [Langstraatspoorlijn or Halvezolenlijntje](https://en.wikipedia.org/wiki/Lage_Zwaluwe-'s-Hertogenbosch_railway) - connecting Lage Zwaluwe to 's-Hertogenbosch via Waalwijk
 - [Duits Lijntje [NL]](https://nl.wikipedia.org/wiki/Spoorlijn_Boxtel_-_Wesel) - connecting Boxtel to Goch (DE) via Uden
