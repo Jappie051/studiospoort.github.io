@@ -4,3 +4,5 @@ Welkom bij Studio Spoort
   <source srcset="/logo-white.svg" media="(prefers-color-scheme: dark)">
   <img src="/logo.svg">
 </picture>
+
+<rssapp-list id="vg3Sl8ftwqCcnhG8"></rssapp-list><script src="https://widget.rss.app/v1/list.js" type="text/javascript" async></script>

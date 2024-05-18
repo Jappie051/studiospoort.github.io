@@ -2,6 +2,7 @@
 title: Brabantrail 
 date: '2024-05-10'
 description: "A fictional map for a potential lightrail network in Noord-Brabant."
+author: "Jappie"
 ---
 > A fictional map for a potential lightrail network in Noord-Brabant. <br>
 > Brabantrail is a project I've been working on for a hot while, it's my first major map project.
@@ -51,7 +52,7 @@ These lines are numbered with 2 digits, of which the first indicates the city it
   - 70 - Bergen op Zoom
   - 80 - Oss
   - 90 - Oosterhout
-  ```
+```
 
 ### Ring lines
 Ringlines always start with an R, then the first letter of the city and then a digit.
@@ -61,6 +62,6 @@ Uneven digits go clockwise, even digits go counterclockwise.
 
 # Network Considerations
 
-```
-WIP
-```
+While designing the overall network I had to consider where to lay down the routes.
+
+# Tools used

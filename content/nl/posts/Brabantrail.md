@@ -2,7 +2,7 @@
 title: Brabantrail 
 date: '2024-05-10'
 description: "Een fictieve netkaart voor een tramnetwerk in Noord-Brabant"
-image: 
+author: "Jappie"
 
 ---
 

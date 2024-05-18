@@ -53,18 +53,6 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/eerste-post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/eerste-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="http://localhost:1313/posts/eerste-post/"
-                />
-  </url><url>
     <loc>http://localhost:1313/over/</loc>
     <xhtml:link
                 rel="alternate"
