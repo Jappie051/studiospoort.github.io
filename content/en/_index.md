@@ -5,4 +5,4 @@ Welcome to Studio Spoort
   <img src="/logo.svg">
 </picture>
 <br><br><br>
-<rssapp-list id="B68ns6DC1BFTjKAR"></rssapp-list><scriptsrc="https://widget.rss.app/v1/list.js" type="text/javascript" async></script>
+<rssapp-list id="B68ns6DC1BFTjKAR"></rssapp-list><script src="https://widget.rss.app/v1/list.js" type="text/javascript" async></script>
