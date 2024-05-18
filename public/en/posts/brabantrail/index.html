@@ -85,27 +85,39 @@ However their right of way is still clearly visible on maps, so I made good use 
 <h1 id="system-design-and-numbering">System Design and Numbering</h1>
 <p>The lightrail system I&rsquo;ve designed has two line types: <code>City and Regional</code>.</p>
 <h2 id="regional">Regional</h2>
-<p>These lines are lettered <code>A-P</code>, sorted by the length of the line. A line is regional when it crosses through multiple agglomertations. They&rsquo;re also the ones who mostly use existing ROWs,
-be it one of the former mainlines mentioned earlier or a route parallel to an existing railway. Busways are also used whenever possible.</p>
+<p>These lines are lettered <code>A-P</code>, sorted by the length of the line.
+A line is regional when it crosses through multiple agglomerations.
+They&rsquo;re also the ones who mostly use existing ROWs, be it one of the former mainlines mentioned earlier or a route parallel to an existing railway.
+Busways are also used whenever possible.</p>
 <h2 id="city">City</h2>
 <p>The city lines are limited to a single agglomeration, they use existing busways whenever possible and else will usually run along streets. These lines will use trams with a higher throughput, which means they have a lot of doors and standing room.</p>
 <p>These lines are numbered with 2 digits, of which the first indicates the city it&rsquo;s in;</p>
-<pre tabindex="0"><code>  - 10 - Eindhoven
-  - 20 - Tilburg
-  - 30 - Breda
-  - 40 - &#39;s-Hertogenbosch
-  - 50 - Helmond
-  - 60 - Roosendaal
-  - 70 - Bergen op Zoom
-  - 80 - Oss
-  - 90 - Oosterhout
-</code></pre><h3 id="ring-lines">Ring lines</h3>
-<p>Ringlines always start with an R, then the first letter of the city and then a digit.
+<ul>
+<li>10 - Eindhoven</li>
+<li>20 - Tilburg</li>
+<li>30 - Breda</li>
+<li>40 - &rsquo;s-Hertogenbosch</li>
+<li>50 - Helmond</li>
+<li>60 - Roosendaal</li>
+<li>70 - Bergen op Zoom</li>
+<li>80 - Oss</li>
+<li>90 - Oosterhout</li>
+</ul>
+<h3 id="ring-lines">Ring lines</h3>
+<p>Ringlines always start with an <code>R</code>, then the first letter of the city and then a digit.
 Uneven digits go clockwise, even digits go counterclockwise.</p>
 <p><code>e.g. RE1 is in Eindhoven and goes clockwise.</code></p>
 <h1 id="network-considerations">Network Considerations</h1>
-<p>While designing the overall network I had to consider where to lay down the routes.</p>
-<h1 id="tools-used">Tools used</h1>
+<p>While designing the overall network I had to consider where to lay down the routes.
+For cities, this meant considering various orbital and radial lines between areas. Here I had to carefully consider which streets to use to make connections to important landmarks. I also tried to consider whether a tram would fit in the first place.</p>
+<p>On the regional lines it was very important to keep in mind the already existing railway network. The regional LRT network is supposed to connect places not otherwise connected by mainline railways. This entails that I&rsquo;ve connected a lot of towns together, which lack rail connection otherwise.
+This is also where the old railways mentioned earlier become relevant. These old ROWs have been used on lines <code>A</code>, <code>B</code>, <code>H</code> &amp; <code>J</code>.
+Especially Uden, Veghel and Schijndel have received much improved transit connection this way.
+Major placement considerations for regional lines were the spacing the stops within towns, and whether to run along existing roads, or potentially take a more direct route.</p>
+<h1 id="tools-used">Tools Used</h1>
+<p>To start out mapping, I downloaded the maptiles from <a href="https://www.imergis.nl/htm/opensimpletopo3200.htm">OpenTopoNL</a>. On this geographical map i started to draw lines using Adobe Illustrator.</p>
+<p>After which, I started in Illustrator to make a small map for the individual cities within the province. These were eventually combined into the large map of the entire province. However, this was just a first version, not very compact at all. So, I started over from scratch. This time the entire map was built in one go, starting from Eindhoven and working outward from there.</p>
+<p>Lastly, the registry of stops was made in Excel, using the layer info from a <code>.svg</code> file as a data source.</p>
 
     </div>
 </article>

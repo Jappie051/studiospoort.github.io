@@ -34,15 +34,17 @@ However their right of way is still clearly visible on maps, so I made good use 
 
 The lightrail system I've designed has two line types: `City and Regional`.
 ## Regional
-These lines are lettered `A-P`, sorted by the length of the line. A line is regional when it crosses through multiple agglomertations. They're also the ones who mostly use existing ROWs, 
-  be it one of the former mainlines mentioned earlier or a route parallel to an existing railway. Busways are also used whenever possible.
+These lines are lettered `A-P`, sorted by the length of the line. 
+A line is regional when it crosses through multiple agglomerations. 
+They're also the ones who mostly use existing ROWs, be it one of the former mainlines mentioned earlier or a route parallel to an existing railway. 
+Busways are also used whenever possible.
 
 ## City
  
 The city lines are limited to a single agglomeration, they use existing busways whenever possible and else will usually run along streets. These lines will use trams with a higher throughput, which means they have a lot of doors and standing room.
 
 These lines are numbered with 2 digits, of which the first indicates the city it's in;
-```
+
   - 10 - Eindhoven
   - 20 - Tilburg
   - 30 - Breda
@@ -52,10 +54,10 @@ These lines are numbered with 2 digits, of which the first indicates the city it
   - 70 - Bergen op Zoom
   - 80 - Oss
   - 90 - Oosterhout
-```
+
 
 ### Ring lines
-Ringlines always start with an R, then the first letter of the city and then a digit.
+Ringlines always start with an `R`, then the first letter of the city and then a digit.
 Uneven digits go clockwise, even digits go counterclockwise.
 
 `e.g. RE1 is in Eindhoven and goes clockwise.`
@@ -63,5 +65,17 @@ Uneven digits go clockwise, even digits go counterclockwise.
 # Network Considerations
 
 While designing the overall network I had to consider where to lay down the routes.
+For cities, this meant considering various orbital and radial lines between areas. Here I had to carefully consider which streets to use to make connections to important landmarks. I also tried to consider whether a tram would fit in the first place. 
 
-# Tools used
+On the regional lines it was very important to keep in mind the already existing railway network. The regional LRT network is supposed to connect places not otherwise connected by mainline railways. 
+This is also where the old railways mentioned earlier become relevant. These old ROWs have been used on lines `A`, `B`, `H` & `J`. 
+Especially Uden, Veghel and Schijndel have received much improved transit connection this way.
+Major placement considerations for regional lines were the spacing the stops within towns, and whether to run along existing roads, or potentially take a more direct route.
+
+# Tools Used
+
+To start out mapping, I downloaded the maptiles from [OpenTopoNL](https://www.imergis.nl/htm/opensimpletopo3200.htm). On this geographical map i started to draw lines using Adobe Illustrator.
+
+After which, I started in Illustrator to make a small map for the individual cities within the province. These were eventually combined into the large map of the entire province. However, this was just a first version, not very compact at all. So, I started over from scratch. This time the entire map was built in one go, starting from Eindhoven and working outward from there.
+
+Lastly, the registry of stops was made in Excel, using the layer info from a `.svg` file as a data source.
