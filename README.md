@@ -1,3 +1,2 @@
-# studiospoort.github.io
-"# studiospoort.github.io" 
-"# studiospoort.github.io" 
+# Studio Spoort
+my personal hobby project

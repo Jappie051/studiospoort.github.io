@@ -68,7 +68,7 @@ Oneven getallen rijden met de klok mee, even getallen rijden tegen de klok in.
 
 `bv. RE1 rijdt met de klok mee door Eindhoven`
 
-# Netwerkoverwegingen
+# Netwerk­­overwegingen
 
 Gedurende het ontwerpproces moest ik uiteraard overwegen waar de lijnen te tekenen.
 In steden betekende dit meerdere radiale en tangentiële (orbitale) lijnen maken om tot een goed verbonden netwerk te komen. Hierbij kwam steeds de keuze van welke straten te gebruiken. Uiteraard moesten belangrijke gebouwen zo veel mogelijk verbonden worden.

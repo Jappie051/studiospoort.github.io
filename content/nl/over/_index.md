@@ -7,4 +7,7 @@ menu:
 slug: 'over'
 ---
 
-Deze blog 
+Deze blog is een persoonlijk hobbyproject.
+
+Je kan me op deze plekken bereiken:
+- [GitHub](https://github.com/Jappie051/studiospoort.github.io)
