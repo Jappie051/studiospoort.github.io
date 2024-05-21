@@ -20,10 +20,10 @@ Hieronder vallen de tienminutentreinen vanaf Eindhoven naar Amsterdam en de IC D
 Ook heb je in het oosten enkele stations van de Maaslijn (Arriva).
 
 Vroeger waren er echter 4 extra spoorlijnen:
-- [Bels Lijntje](https://nl.wikipedia.org/wiki/Spoorlijn_29_Aarschot_-_Tilburg) - verbindde Turnhout (BE) en Tilburg
-- [Spoorlijn 18](https://nl.wikipedia.org/wiki/Spoorlijn_18_Winterslag_-_Eindhoven) - verbindde Eindhoven met Pelt (BE) en Hasselt (BE)
-- [Langstraatspoorlijn of Halvenzolenlijntje](https://nl.wikipedia.org/wiki/Spoorlijn_Lage_Zwaluwe_-_%27s-Hertogenbosch) - verbindde Lage Zwaluwe met 's-Hertogenbosch via Waalwijk
-- [Duits Lijntje](https://nl.wikipedia.org/wiki/Spoorlijn_Boxtel_-_Wesel) - verbindde Boxtel met Goch (DE) via Uden en Gennep
+- [Bels Lijntje](https://nl.wikipedia.org/wiki/Spoorlijn_29_Aarschot_-_Tilburg) - verbond Turnhout (BE) en Tilburg
+- [Spoorlijn 18](https://nl.wikipedia.org/wiki/Spoorlijn_18_Winterslag_-_Eindhoven) - verbond Eindhoven met Pelt (BE) en Hasselt (BE)
+- [Langstraatspoorlijn of Halvenzolenlijntje](https://nl.wikipedia.org/wiki/Spoorlijn_Lage_Zwaluwe_-_%27s-Hertogenbosch) - verbond Lage Zwaluwe met 's-Hertogenbosch via Waalwijk
+- [Duits Lijntje](https://nl.wikipedia.org/wiki/Spoorlijn_Boxtel_-_Wesel) - verbond Boxtel met Goch (DE) via Uden en Gennep
 
 Vanwege hun eensporig en ongeëlektrificeerde karakter zijn deze spoorlijnen in de 20e eeuw opgeheven.
 Verschillende stukken spoor liggen er nog, maar het meeste is weggehaald.
