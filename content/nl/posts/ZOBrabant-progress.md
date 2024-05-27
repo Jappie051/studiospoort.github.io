@@ -5,6 +5,14 @@ date: '2024-05-19'
 ---
 <a href="#bottom">Klik hier om de eerste update te lezen.</a>
 
+# 2024-5-27 — Kempen
+
+Ik ben verder gegaan richting de Kempen.
+Deze update bevat meerdere Buurtbussen en heeft.
+Ook is er aan de lijnnummering gewerkt.
+
+{{< figure src="images/ZOBrabant/2024-05-27.png" width="50%" link="/images/ZOBrabant/2024-05-27.png" >}}
+
 # 2024-5-18 — Drie Hovens
 
 Deze update focust zich op HOV1 (roze bundel), de busbaan vanaf Centraal naar Veldhoven en Meerhoven. Alles goed inpassen, vooral de rode bundel, vereiste redelijk wat creativiteit.

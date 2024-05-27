@@ -5,6 +5,13 @@ date: '2024-05-19'
 ---
 <a href="#bottom">Click here to head to the first update.</a>
 
+# 2024-5-27 — Kempen
+
+I've continued drawing in the Kempen region.
+This update includes multiple local busses as well as adding line numbering in places.
+
+{{< figure src="images/ZOBrabant/2024-05-27.png" width="50%" link="/images/ZOBrabant/2024-05-27.png" >}}
+
 # 2024-5-18 — Three Hovens
 
 This update focusses around HOV1 (pink bundle) connecting Eindhoven Centraal to Veldhoven and Meerhoven. Making everything fit, especially line 14 and 114, required some creativity.
