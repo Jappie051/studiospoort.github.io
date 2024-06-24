@@ -5,6 +5,13 @@ date: '2024-05-19'
 ---
 <a href="#bottom">Klik hier om de eerste update te lezen.</a>
 
+# 2024-6-24 — Woensel
+
+De lijnen richting Reusel en Luyksgestel zijn afgerond. 
+Ik ben begonnen aan de lijnen die richting het noorden gaan vanuit het Centraal Station. Het kleurenpalet is nog nader te bepalen, maar ik maak goede voortgang.
+
+{{< figure src="images/ZOBrabant/2024-06-24.png" width="50%" link="/images/ZOBrabant/2024-06-24.png" >}}
+
 # 2024-5-27 — Kempen
 
 Ik ben verder gegaan richting de Kempen.

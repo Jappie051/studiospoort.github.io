@@ -5,6 +5,12 @@ date: '2024-05-19'
 ---
 <a href="#bottom">Click here to head to the first update.</a>
 
+# 2024-6-24 — Woensel
+
+I've continued in the southwest and finished some lines there. More importantly many of the lines going north from CS have been added to the map. I haven't been able to decide on how to colour them, but progress is certainly being made.
+
+{{< figure src="images/ZOBrabant/2024-06-24.png" width="50%" link="/images/ZOBrabant/2024-06-24.png" >}}
+
 # 2024-5-27 — Kempen
 
 I've continued drawing in the Kempen region.
