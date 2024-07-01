@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -27,6 +27,9 @@
                 hreflang="en"
                 href="http://localhost:1313/en/posts/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/nhnschematic/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/zobrabant-progress/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>

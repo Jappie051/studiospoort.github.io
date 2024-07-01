@@ -2,6 +2,7 @@
 title: 'Schematische Lijnennetkaart Zuidoost Brabant (Voortgangsblog)'
 description: 'Mijn voortgang met het ontwerpen van een broodnodige schematische lijnennetkaart voor de Concessie Zuidoost Brabant'
 date: '2024-05-19'
+author: 'Jappie'
 ---
 <a href="#bottom">Klik hier om de eerste update te lezen.</a>
 

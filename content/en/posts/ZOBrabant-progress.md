@@ -2,6 +2,7 @@
 title: 'Schematic Network Map Zuidoost Brabant (Progress Post)'
 description: 'My progress on designing a much-needed schematic transit map for the Zuidoost Brabant concession.'
 date: '2024-05-19'
+author: 'Jappie'
 ---
 <a href="#bottom">Click here to head to the first update.</a>
 
