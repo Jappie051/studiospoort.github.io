@@ -8,10 +8,12 @@ defaultContentLanguage = 'nl'
 	[languages.nl]
 	  contentDir = 'content/nl'
 	  languageName = 'Nederlands'
+    LanguageIcon = '🇳🇱'
 	  weight = 1
 	[languages.en]
 	  contentDir = 'content/en'
 	  languageName = 'English'
+    LanguageIcon = '🇬🇧'
 	  weight = 2
 
 [module]
@@ -36,6 +38,8 @@ defaultContentLanguage = 'nl'
 
   colors = "default"
   favicon = "images/icoon160pxs.png"
+  fontbody = "Source Sans Pro"
+  fontcode = "Source Code Pro"
 
   [params.hcard]
     avatar = "images/icoon160px.png"

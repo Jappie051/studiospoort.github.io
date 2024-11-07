@@ -8,7 +8,9 @@ slug: 'over'
 ---
 
 Hoihoii, Welkom op mijn mooie site :D
-Ik ben Jasper, 19 jaar en studeer bouwkunde aan de TU/e
+
+Ik ben Jasper, 19 jaar en studeer bouwkunde aan de TU/e.
+
 Deze site gebruik ik als collectie van mijn eigen projecten.
 Dit kunnen hobby's zijn, maar ook schoolwerk of professionele projecten.
 Mijn intressegebieden liggen voornamelijk bij het OV en urbanisme
