@@ -28,8 +28,18 @@
                 href="http://localhost:1313/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/nhnschematic/</loc>
+    <loc>http://localhost:1313/en/posts/nhnschematisch/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://localhost:1313/posts/nhnschematisch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/nhnschematisch/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/posts/zobrabant-progress/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
