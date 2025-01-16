@@ -1,10 +1,16 @@
 --- 
 title: 'Schematic Network Map Zuidoost Brabant (Progress Post)'
 description: 'My progress on designing a much-needed schematic transit map for the Zuidoost Brabant concession.'
-date: '2024-05-19'
+date: '2025-01-16'
 author: 'Jappie'
 ---
 <a href="#bottom">Click here to head to the first update.</a>
+
+# 2025-1-16 — New Year, new timetable
+
+After having not worked on the map for a hot while, a new timetable for 2025 dropped. This meant some route changes, but nothing major.
+
+{{< figure src="images/ZOBrabant/2025-01-16.png" width="50%" link="/images/ZOBrabant/2025-01-16.png" >}}
 
 # 2024-6-24 — Woensel
 

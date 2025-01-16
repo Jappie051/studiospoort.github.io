@@ -1,10 +1,17 @@
 --- 
 title: 'Schematische Lijnennetkaart Zuidoost Brabant (Voortgangsblog)'
 description: 'Mijn voortgang met het ontwerpen van een broodnodige schematische lijnennetkaart voor de Concessie Zuidoost Brabant'
-date: '2024-05-19'
+date: '2025-01-16'
 author: 'Jappie'
 ---
 <a href="#bottom">Klik hier om de eerste update te lezen.</a>
+
+
+# 2025-1-16 — Nieuw jaar, nieuwe dienstregeling
+
+Na een hele tijd niet gewerkt te hebben aan deze kaart, heb ik weer een kleine doorstart gemaakt. Hierin heb ik gefocust op een aantal lijnen die hun route gewijzigd hebben. De grootste routewijziging vond plaats in Veldhoven-West, waar de 403 ingekort is tot Heikant en de 14 verlengd over de nieuwe Zilverbaan tot de Kempen Campus.
+
+{{< figure src="images/ZOBrabant/2025-01-16.png" width="50%" link="/images/ZOBrabant/2025-01-16.png" >}}
 
 # 2024-6-24 — Woensel
 
