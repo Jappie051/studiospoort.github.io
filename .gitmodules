@@ -1,3 +1,6 @@
 [submodule "themes/plague"]
 	path = themes/plague
 	url = https://github.com/brianreumere/plague.git
+[submodule "themes/hugo-embed-pdf-shortcode"]
+	path = themes/hugo-embed-pdf-shortcode
+	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
