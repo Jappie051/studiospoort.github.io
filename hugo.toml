@@ -1,7 +1,7 @@
 baseURL = 'https://studiospoort.nl'
 languageCode = 'nl-nl'
 title = 'Studio Spoort'
-theme = "plague"
+theme = ["plague", "hugo-embed-pdf-shortcode"]
 defaultContentLanguage = 'nl'
 
 [languages]
